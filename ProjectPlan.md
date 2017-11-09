@@ -45,17 +45,18 @@ Add additional notes about how to deploy this on a live system
 
 ##### Step 1. Data munging and exploration
 Tools: R
+
 Visualization: R Plotly
 
 In this step, I will first deal with data quality issues, like missing value and formatting. Subsequently, merging datasets in preparation for later analysis. And then explore the final dataset by data aggregation and interactive visualization.
 
 ##### Step 2. Refine research questions
 
-	This step is mainly brainstorming and research. I will refine the questions in section 2 and bring out more questions that seems potentially interesting after know exploring the data more. Additional dataset may be brought to this research as reference or comparison. For instance, in the gender balance question, compare the results with the gender balance of college science and engineering major students of the corresponding country, if there is dataset available.
+This step is mainly brainstorming and research. I will refine the questions in section 2 and bring out more questions that seems potentially interesting after know exploring the data more. Additional dataset may be brought to this research as reference or comparison. For instance, in the gender balance question, compare the results with the gender balance of college science and engineering major students of the corresponding country, if there is dataset available.
 
 ##### Step 3. Data visualization product development
-
 Tools: R Shiny
+
 Visualization: R Plotly
 
 A dashboard will be built using R Shiny, which is the major deliverable of this project. Analysis results will be shown in this interactive dashboard so that users or audiences of the study will explore the topic better. Other deliverables are a report and a well documented github repo.
