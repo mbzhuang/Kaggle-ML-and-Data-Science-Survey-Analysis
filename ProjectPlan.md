@@ -66,7 +66,7 @@ A dashboard will be built using R Shiny, which is the major deliverable of this 
 Here are the key elements of human centered data science that I will always remind myself of as the study goes on.
 
 - Replicability and reproducibility
-- License of source data,  copyright,
+- License of source data,  copyright
 - Privacy policy and terms of use
 
 
