@@ -65,11 +65,14 @@ A dashboard will be built using R Shiny, which is the major deliverable of this 
 
 The privacy of the respondents has been taken good care by the survey designers before releasing the data. It is stated that the responses to multiple choice questions and open-ended responses have been separated without providing any key to match them up. In addition, freeformResponses.csv file has been sanitized and randomized that responses in the same row may not come from the same respondent.
 
-I would like to follow the best practice for Here are the key elements of human centered data science that I will always remind myself of as the study goes on.
+I would like to follow the best practice guidelines of HCDE. Here are the key elements I have leanred from the class and will incorporated into the project.
 
 - Replicability and reproducibility
-- License of source data,  copyright
+- License of source data,  license of code, copyright
 - Privacy policy and terms of use
+
+
+##### References
 
 
 ## License
