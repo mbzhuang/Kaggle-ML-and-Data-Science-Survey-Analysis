@@ -61,9 +61,11 @@ Visualization: R Plotly
 
 A dashboard will be built using R Shiny, which is the major deliverable of this project. Analysis results will be shown in this interactive dashboard so that users or audiences of the study will explore the topic better. Other deliverables are a report and a well documented github repo.
 
-### 4. Human Centered Data Science Elements of the Project
+### 4. Human Centered Data Science Considerations
 
-Here are the key elements of human centered data science that I will always remind myself of as the study goes on.
+The privacy of the respondents has been taken good care by the survey designers before releasing the data. It is stated that the responses to multiple choice questions and open-ended responses have been separated without providing any key to match them up. In addition, freeformResponses.csv file has been sanitized and randomized that responses in the same row may not come from the same respondent.
+
+I would like to follow the best practice for Here are the key elements of human centered data science that I will always remind myself of as the study goes on.
 
 - Replicability and reproducibility
 - License of source data,  copyright
