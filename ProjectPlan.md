@@ -68,12 +68,18 @@ The privacy of the respondents has been taken good care by the survey designers 
 I would like to follow the best practice guidelines of HCDE. Here are the key elements I have leanred from the class and will incorporated into the project.
 
 - Replicability and reproducibility
-- License of source data,  license of code, copyright
-- Privacy policy and terms of use
+  
+  i. Clearly separate and label all data and files
+  ii. Fully document all operations that occur on data and files
+  iii. Automate all operations as much as possible, thus avoiding manual intervention in the workflow when feasible 
+  iv. Generate intermediate outputs from one step and then feed it into the next step.
+  
+- License of source data, privacy policy and terms of use
+- License of code and copyright
 
 
 ##### References
-
+1. Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2018). The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences. Part I: Practicing Reproducibility. Oakland, CA: University of California Press.
 
 ## License
 
