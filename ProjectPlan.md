@@ -26,6 +26,10 @@ The data sets includes 5 files:
 - conversionRates.csv: Currency conversion rates to USD 7.
 - RespondentTypeREADME.txt: This describes respondent type in the "Asked" column of the schema.csv file.
 
+License: 
+
+According to Kaggle, the data is released under Open Database license, specifically, [ODC Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0/). [Users are free to share, to produce works, to modify, transform and build upon the data, as long as they attribute, share-alike, and keep open.](https://opendatacommons.org/licenses/odbl/summary/) 
+
 ### 2. Project Goal
 
 Data scientist has been referred to as the "sexiest job of the 21st century" and "best job of the year 2016" by Harvard Business Review and Glassdoor respectively. The goal of this project is to dive deep into the survey results and get a comprehensive understanding of state of data science and the job itself. This project will inform us what’s happening at the cutting edge of data science across industries and subsequently guide new data scientists breaking into the field.
