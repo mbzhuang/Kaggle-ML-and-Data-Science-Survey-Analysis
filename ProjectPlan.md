@@ -28,7 +28,7 @@ The data sets includes 5 files:
 
 License: 
 
-According to Kaggle, the data is released under Open Database license, specifically, [ODC Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0/). [Users are free to share, to produce works, to modify, transform and build upon the data, as long as they attribute, share-alike, and keep open.](https://opendatacommons.org/licenses/odbl/summary/) 
+According to Kaggle, the data is released under Open Database license, specifically, [ODC Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0/). Users are free to share, to produce works, to modify, transform and build upon the data, as long as they attribute, share-alike, and keep open. [Click to read detailed explanations of how the data can be used.](https://opendatacommons.org/licenses/odbl/summary/) 
 
 ### 2. Project Goal
 
