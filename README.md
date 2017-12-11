@@ -1,9 +1,10 @@
-# A Deep Dive into the 2017 Kaggle ML and Data Science Survey Results
+# A Deep Dive into the 2017 Kaggle Machine Learning and Data Science Survey Results
 DATA 512 - UW Interdisciplinary Data Science Masters Program, Final Project
 
 Created by: Mobing Zhuang
 
-Project Goal:
+Abstract:
+This study is conducted on the datasets from Kaggle's 2017 industry-wide survey on machine learning and data science. The analysis in this study revealed insights from the Kaggle survey results in the aspects of the career, the salary, and the language use of data scientists. The respondents are mostly from U.S. and India, with at least bachelor degree, and mostly major in computer science, maths or stats, electrical engineering, and other engineering disciplines. We also found that globally, as a data scientist, higher education lead to higher annual salary. But in the U.S., the salary is similar between bachelor and master graduates. In terms of language choice, Python is more popular compared to R and people tend to use them for different tasks. With many high tech companies, U.S. is most advanced in the data science field, thus receiving most respondents from here and having the highest annual average salary.
 
 Source Data Information:
 - Kaggle: the data sets includes 5 files:
